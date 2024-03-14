@@ -1,1 +1,1 @@
-# javascrip24
+# javascript24
